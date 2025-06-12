@@ -1,0 +1,15 @@
+{
+  "menus":[
+    {
+      "id": 1,
+      "title":"",
+      "desc":"",
+      "links":[
+        {
+          "id": 1,
+          "url":"https://uniapp.dcloud.io/frame?id=%e5%bc%80%e5%8f%91%e8%a7%84%e8%8c%83"
+        }
+      ]
+    }
+  ]
+}
